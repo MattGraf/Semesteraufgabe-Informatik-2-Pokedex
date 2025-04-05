@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="pokedex:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/pokedex_jar</output-path>
+    <root id="archive" name="pokedex.jar">
+      <element id="module-output" name="pokedex" />
+    </root>
+  </artifact>
+</component>
