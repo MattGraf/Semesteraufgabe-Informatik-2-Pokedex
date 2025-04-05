@@ -1,4 +1,8 @@
-# Anleitung zum Pokedex  
+# Anleitung zum Pokedex
+
+**Contributors**
+- Samuel Bimmüller (https://github.com/pinthus)
+- Marc Förster (https://github.com/MagicMarcsMagic)
 
 1. **Ausführung**
    - Programmstart durch Hauptmethode in der Main-Klasse `src/UserInterface/Main.java`
