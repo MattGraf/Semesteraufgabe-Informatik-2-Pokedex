@@ -40,7 +40,7 @@ von Samuel Bimmüller, Marc Förster, Matthias Graferger
 4. Import von CSV-Dateien
     - Auswahl der Sprache
     - Format
-      o {Name}, {type=Water}, {type=Water},{Evolution}
+      o {Name}, {type=Water}, {type=Water}, {Evolution}
       o Typ muss in den echten Pokemontypen der jeweilige Sprache enthalten sein (siehe Beispiele im csv-Ordner)
       o Dabei ist der zweite Typ opWonal
       o EvoluWon muss ein Integer zwischen 0 und 2 sein (einschließlich)
