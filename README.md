@@ -1,5 +1,4 @@
 # Anleitung zum Pokedex  
-**von Samuel Bimmüller, Marc Förster, Matthias Graferger**
 
 1. **Ausführung**
    - Programmstart durch Hauptmethode in der Main-Klasse `src/UserInterface/Main.java`
