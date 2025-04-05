@@ -15,14 +15,14 @@ von Samuel Bimmüller, Marc Förster, Matthias Graferger
       o Passwort: 1234
   Registrierung
     - Angabe von Benutzername, Passwort, welches wiederholt werden muss
-    - Erfolgreich, wenn Benutzername nicht vorhanden und Passwörter übereinsWmmen
+    - Erfolgreich, wenn Benutzername nicht vorhanden und Passwörter übereinstimmen
 3. Übersicht
   Pokemonliste
     - Auswahl durch Mausklick
     - Abwahl durch cmd/strg + Mausklick
     - Durchscrollen durch Pfeiltasten
   Teamanzeige
-    - InformaWonsanzeige von Pokemon aus dem Team des Users durch entsprechende Auswahl
+    - Informationsanzeige von Pokemon aus dem Team des Users durch entsprechende Auswahl
   Suche
     - Suchen nach Pokemon durch exakten Namen oder Nr. ohne führende 0en
   Informationsanzeige
@@ -42,5 +42,5 @@ von Samuel Bimmüller, Marc Förster, Matthias Graferger
     - Format
       o {Name}, {type=Water}, {type=Water}, {Evolution}
       o Typ muss in den echten Pokemontypen der jeweilige Sprache enthalten sein (siehe Beispiele im csv-Ordner)
-      o Dabei ist der zweite Typ opWonal
-      o EvoluWon muss ein Integer zwischen 0 und 2 sein (einschließlich)
+      o Dabei ist der zweite Typ optional
+      o Evolution muss ein Integer zwischen 0 und 2 sein (einschließlich)
